@@ -1,0 +1,60 @@
+name: Monitoring Regression Gate
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  regression-check:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Setup Python 3.11
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Create test data
+      run: |
+        mkdir -p data
+        echo "Annual leave: 25 days per year." > data/policy.txt
+
+    - name: Run test queries to populate DB
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      run: |
+        python <<EOF
+        from src.database.db import initialize_database, save_trace
+        from datetime import datetime
+
+        initialize_database()
+
+        for i in range(5):
+            save_trace({
+                'timestamp': datetime.now().isoformat(),
+                'query': 'What is leave policy?',
+                'answer': 'Leave is 25 days [Source: policy.txt, Page: 1]',
+                'total_latency_ms': 1500,
+                'retrieval_latency_ms': 300,
+                'reranking_latency_ms': 200,
+                'generation_latency_ms': 1000,
+                'prompt_tokens': 500,
+                'completion_tokens': 100,
+                'total_tokens': 600,
+                'cost_usd': 0.0004,
+                'num_sources': 3,
+                'has_citation': 1,
+                'quality_score': 0.8,
+                'sentiment_label': 'neutral',
+                'sentiment_score': 0.0,
+                'status': 'success',
+                'error_message': None
+            })
+
+        print("Test data inserted!")
+        EOF
