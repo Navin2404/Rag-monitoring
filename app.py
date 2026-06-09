@@ -19,7 +19,7 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_community.document_loaders import TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.prompts import ChatPromptTemplate
+from langchain_core.prompts import ChatPromptTemplate
 from rank_bm25 import BM25Okapi
 from sentence_transformers import CrossEncoder
 import numpy as np
@@ -75,7 +75,7 @@ def setup_rag():
     reranker = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
 
     # LLM
-    llm = ChatGroq(model="llama3-8b-8192", temperature=0)
+    llm = ChatGroq(model="llama-3.1-8b-instant", temperature=0)
 
     return vector_store, bm25, chunks, reranker, llm
 
@@ -167,7 +167,7 @@ def monitored_query(question: str) -> dict:
         completion_tokens = len(answer.split())
 
         # Cost calculate pannu
-        cost_info = calculate_cost("llama3-8b-8192", prompt_tokens, completion_tokens)
+        cost_info = calculate_cost("llama-3.1-8b-instant", prompt_tokens, completion_tokens)
 
         # Quality check
         has_citation = "[Source:" in answer or "Source:" in answer
