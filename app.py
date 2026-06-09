@@ -14,8 +14,8 @@ from src.monitoring.cost_tracker import calculate_cost
 from src.monitoring.quality_scorer import analyze_sentiment, calculate_quality_score
 from src.database.db import initialize_database, save_trace
 
-# RAG imports - Project 1-la irunthu
-from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+from langchain_groq import ChatGroq
+from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_community.document_loaders import TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
@@ -64,7 +64,7 @@ def setup_rag():
     chunks = splitter.split_documents(docs)
 
     # Vector store
-    embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
+    embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
     vector_store = Chroma.from_documents(chunks, embeddings, persist_directory="./chroma_db")
 
     # BM25
@@ -75,7 +75,7 @@ def setup_rag():
     reranker = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
 
     # LLM
-    llm = ChatOpenAI(model="gpt-3.5-turbo", temperature=0)
+    llm = ChatGroq(model="llama3-8b-8192", temperature=0)
 
     return vector_store, bm25, chunks, reranker, llm
 
@@ -167,7 +167,7 @@ def monitored_query(question: str) -> dict:
         completion_tokens = len(answer.split())
 
         # Cost calculate pannu
-        cost_info = calculate_cost("gpt-3.5-turbo", prompt_tokens, completion_tokens)
+        cost_info = calculate_cost("llama3-8b-8192", prompt_tokens, completion_tokens)
 
         # Quality check
         has_citation = "[Source:" in answer or "Source:" in answer

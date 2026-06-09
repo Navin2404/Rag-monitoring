@@ -8,6 +8,10 @@ PRICING = {
         "input": 0.0005,  # $0.0005 per 1K input tokens
         "output": 0.0015  # $0.0015 per 1K output tokens
     },
+    "llama3-8b-8192": {
+        "input": 0.00005, # $0.05 per 1M input
+        "output": 0.00008 # $0.08 per 1M output
+    },
     "gpt-4": {
         "input": 0.03,
         "output": 0.06
