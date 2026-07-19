@@ -26,6 +26,15 @@ import numpy as np
 
 load_dotenv()
 
+try:
+    groq_api_key = st.secrets.get("GROQ_API_KEY")
+except Exception:
+    groq_api_key = None
+
+if not groq_api_key:
+    groq_api_key = os.getenv("GROQ_API_KEY")
+
+
 # DB initialize pannu - app start-la
 initialize_database()
 
@@ -52,6 +61,19 @@ Context:
 def setup_rag():
     """RAG components ore oru time setup"""
 
+    try:
+        has_secret = "GROQ_API_KEY" in st.secrets
+    except Exception:
+        has_secret = False
+        
+    st.write("Secret Exists:", has_secret)
+
+    if has_secret:
+        st.write("Loaded Successfully")
+    else:
+        st.write("Secret NOT loaded")
+
+
     # Documents load pannu
     from pathlib import Path
     docs = []
@@ -75,8 +97,11 @@ def setup_rag():
     reranker = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
 
     # LLM
-    llm = ChatGroq(model="llama-3.1-8b-instant", temperature=0)
-
+    llm = ChatGroq(
+        model="llama-3.1-8b-instant",
+        temperature=0,
+        groq_api_key=groq_api_key
+    )
     return vector_store, bm25, chunks, reranker, llm
 
 
@@ -238,7 +263,7 @@ def monitored_query(question: str) -> dict:
 col1, col2 = st.columns([2, 1])
 
 with col1:
-    question = st.text_input("Question Kelu:", placeholder="What is the leave policy?")
+    question = st.text_input("Ask your Question:", placeholder="Sick leave policy?")
 
     if st.button("🔍 Ask", type="primary") and question:
         with st.spinner("Processing..."):
