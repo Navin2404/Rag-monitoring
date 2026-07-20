@@ -1,69 +1,1250 @@
-# Company HR Leave Policy Document
-Version: 2.0 | Last Updated: January 2025
+# COMPANY HUMAN RESOURCES POLICY HANDBOOK
+Version: 4.0
+Last Updated: January 2026
 
-## 1. Annual Leave Policy
-Employees are eligible for 25 days of annual leave per calendar year.
-Annual leave must be requested at least 5 working days in advance.
-Leave must be approved by the direct manager before proceeding.
-Unused annual leave can be carried forward up to 10 days to the next year.
-Employees must submit leave requests through the HR portal under "My Leaves" section.
+=========================================================
+1. EMPLOYMENT POLICY
+=========================================================
 
-## 2. Sick Leave Policy
-Employees are entitled to 12 days of paid sick leave per year.
-To apply for sick leave, employees must fill out Form SL-01 on the HR portal.
-If sick leave exceeds 3 consecutive days, a doctor's certificate must be submitted.
-Sick leave cannot be carried forward to the next calendar year.
-Repeated sick leave patterns may be reviewed by HR for wellness support.
+The company is committed to maintaining a professional, inclusive, and ethical work environment for all employees. Employment decisions are made based on qualifications, experience, business requirements, and performance without discrimination based on race, religion, gender, age, disability, nationality, marital status, or any other legally protected characteristic.
 
-## 3. Casual Leave Policy
-Employees are eligible for 6 days of casual leave per year.
-Casual leave can be taken for personal emergencies and family events.
-Casual leave cannot be clubbed with annual leave.
-Maximum 2 consecutive days of casual leave can be taken at once.
-Casual leave must be applied on the same day or one day before in the HR portal.
+Every employee is expected to maintain professionalism, integrity, honesty, confidentiality, and respect while carrying out their responsibilities. Employees must comply with all company rules, policies, and applicable laws.
 
-## 4. Maternity Leave Policy
-Female employees are eligible for 26 weeks of paid maternity leave.
-Maternity leave applies after completing 6 months of employment.
-Employees must notify HR at least 1 month before the expected delivery date.
-Maternity leave can be extended by 4 weeks in case of medical complications.
-To apply, submit Form ML-01 along with the doctor's certificate to HR.
+Employees are responsible for understanding company policies during onboarding and acknowledging that they have read and accepted the employee handbook.
 
-## 5. Paternity Leave Policy
-Male employees are eligible for 5 days of paid paternity leave.
-Paternity leave must be taken within 30 days of the child's birth.
-Employee must submit birth certificate copy to HR after availing leave.
-Apply using Form PL-01 on the HR portal at least 1 week in advance.
+Any violation of company policies may result in counseling, written warning, suspension, or termination depending on the severity of the violation.
 
-## 6. Bereavement Leave Policy
-Employees are entitled to 3 days of paid bereavement leave.
-Bereavement leave is applicable for immediate family members only.
-Immediate family includes spouse, children, parents, and siblings.
-Supporting documents may be required upon return to work.
-Additional unpaid leave can be requested if needed.
+=========================================================
+2. RECRUITMENT POLICY
+=========================================================
 
-## 7. Work From Home Policy
-Employees can work from home up to 2 days per week.
-WFH must be pre-approved by the manager via email or HR portal.
-During WFH, employees must be available on official communication channels.
-WFH is not applicable during training periods or probation.
-Repeated WFH violations may lead to cancellation of WFH privileges.
+The recruitment process ensures fair and transparent hiring practices.
 
-## 8. Leave Without Pay (LWP)
-Employees can apply for leave without pay after exhausting all paid leaves.
-LWP requires HR manager approval and department head sign-off.
-LWP affects monthly salary calculation proportionately.
-More than 30 days of LWP requires management committee approval.
-Submit Form LWP-01 to HR with justification letter.
+Recruitment process includes:
 
-## 9. Public Holidays
-The company observes 10 national public holidays per year.
-Holiday list is published every December for the following year.
-If an employee works on a public holiday, compensatory off will be granted.
-Compensatory off must be used within 30 days of the holiday worked.
+1. Business requirement approval
+2. Job description preparation
+3. Job advertisement
+4. Resume screening
+5. Technical assessment
+6. Technical interview
+7. HR interview
+8. Background verification
+9. Salary negotiation
+10. Offer letter issuance
+11. Joining formalities
 
-## 10. Leave Encashment Policy
-Employees can encash up to 15 days of unused annual leave per year.
-Leave encashment is processed during the December payroll cycle.
-Encashment rate is calculated based on basic salary per day.
-Submit Form LE-01 to HR before November 30th to avail encashment.
+Candidates must provide accurate educational qualifications, employment history, identity documents, and professional references.
+
+Providing false information during recruitment may lead to cancellation of employment or termination after joining.
+
+=========================================================
+3. EMPLOYEE ONBOARDING POLICY
+=========================================================
+
+Every new employee must complete the onboarding process within the first five working days.
+
+Employees are required to submit:
+
+• Government ID
+• Passport
+• Passport-size photographs
+• Educational certificates
+• Previous employment certificates
+• Address proof
+• Bank account details
+• Tax documents
+• Emergency contact details
+
+Employees will receive:
+
+• Employee ID card
+• Official email address
+• Laptop or desktop computer
+• HR portal credentials
+• Payroll access
+• Attendance system access
+• VPN credentials (if applicable)
+
+Employees must complete mandatory training programs before receiving full system access.
+
+=========================================================
+4. PROBATION POLICY
+=========================================================
+
+All newly hired employees are placed on probation for six months.
+
+The probation period allows managers to evaluate:
+
+• Technical skills
+• Communication
+• Attendance
+• Discipline
+• Team collaboration
+• Productivity
+• Learning ability
+• Professional behavior
+
+Managers conduct monthly performance discussions.
+
+At the end of probation, employees may be:
+
+• Confirmed
+• Extended for three months
+• Terminated due to unsatisfactory performance
+
+=========================================================
+5. ATTENDANCE POLICY
+=========================================================
+
+Office working hours are from 9:00 AM to 6:00 PM, Monday through Friday.
+
+Employees must record attendance using the company's attendance system.
+
+Late arrival policy:
+
+First two late arrivals in a month are allowed.
+
+Third late arrival may result in a half-day leave deduction.
+
+Continuous late attendance may result in disciplinary action.
+
+Employees who forget to mark attendance must notify HR within 24 hours.
+
+=========================================================
+6. ANNUAL LEAVE POLICY
+=========================================================
+
+Employees receive twenty-five days of paid annual leave every calendar year.
+
+Leave Rules
+
+• Apply at least five working days in advance.
+• Leave must be approved before travel.
+• Leave application should be submitted through the HR Portal.
+• Maximum carry forward is ten days.
+• Encashment allowed for fifteen unused days.
+• Leave balance can be viewed through the HR portal.
+• Employees should avoid applying leave during critical project delivery unless approved.
+
+Managers may reject leave requests due to business requirements.
+
+=========================================================
+7. SICK LEAVE POLICY
+=========================================================
+
+Employees receive twelve paid sick leave days every year.
+
+Employees must:
+
+Submit Form SL-01.
+
+Inform reporting manager immediately.
+
+Upload medical documents when required.
+
+A doctor's certificate is mandatory for more than three consecutive sick leave days.
+
+Unused sick leave expires at the end of every calendar year.
+
+Repeated sick leave patterns may trigger HR wellness discussions.
+
+=========================================================
+8. CASUAL LEAVE POLICY
+=========================================================
+
+Employees receive six casual leave days annually.
+
+Casual leave may be used for:
+
+Family emergencies
+
+Personal work
+
+Medical appointments
+
+Urgent personal matters
+
+Maximum two consecutive casual leave days may be taken.
+
+Casual leave cannot be combined with annual leave.
+
+=========================================================
+9. MATERNITY LEAVE POLICY
+=========================================================
+
+Eligible female employees receive twenty-six weeks of paid maternity leave.
+
+Eligibility:
+
+Minimum six months of continuous employment.
+
+Employees should notify HR one month before expected delivery.
+
+Required documents:
+
+Doctor certificate
+
+Expected delivery report
+
+Medical records
+
+The company may extend leave by four weeks in case of certified medical complications.
+
+=========================================================
+10. PATERNITY LEAVE POLICY
+=========================================================
+
+Eligible male employees receive five working days of paid paternity leave.
+
+Leave must be utilized within thirty days of childbirth.
+
+Employees must submit:
+
+Birth certificate
+
+Hospital discharge summary
+
+Leave request form
+
+=========================================================
+11. WORK FROM HOME POLICY
+=========================================================
+
+Employees may work from home up to two days every week.
+
+Requirements:
+
+Reliable internet connection
+
+Official laptop
+
+VPN connection
+
+Availability during office hours
+
+Attendance in virtual meetings
+
+WFH is not available during probation or mandatory classroom training.
+
+=========================================================
+12. PERFORMANCE REVIEW POLICY
+=========================================================
+
+Performance reviews are conducted:
+
+Quarterly
+
+Mid-Year
+
+Annual
+
+Evaluation Areas
+
+Technical Skills
+
+Quality of Work
+
+Communication
+
+Problem Solving
+
+Leadership
+
+Innovation
+
+Customer Satisfaction
+
+Attendance
+
+Teamwork
+
+Ratings
+
+Outstanding
+
+Excellent
+
+Very Good
+
+Good
+
+Needs Improvement
+
+Unsatisfactory
+
+=========================================================
+13. SALARY POLICY
+=========================================================
+
+Salary is credited on the last working day of every month.
+
+Salary components include:
+
+Basic Salary
+
+House Rent Allowance
+
+Medical Allowance
+
+Special Allowance
+
+Performance Bonus
+
+Provident Fund
+
+Professional Tax
+
+Income Tax
+
+Employees can download salary slips through the payroll portal.
+
+=========================================================
+14. EXPENSE REIMBURSEMENT POLICY
+=========================================================
+
+Employees may claim reimbursement for approved business expenses.
+
+Eligible expenses include:
+
+Travel
+
+Hotel
+
+Meals
+
+Client meetings
+
+Internet reimbursement
+
+Mobile reimbursement
+
+Office supplies
+
+Claims must be submitted within ten working days with original receipts.
+
+=========================================================
+15. BUSINESS TRAVEL POLICY
+=========================================================
+
+Business travel requires manager approval before booking.
+
+Employees should use cost-effective travel options.
+
+Travel requests must include:
+
+Purpose
+
+Destination
+
+Duration
+
+Estimated cost
+
+Project details
+
+Expense reports should be submitted within seven working days after returning.
+
+=========================================================
+16. INFORMATION SECURITY POLICY
+=========================================================
+
+Employees must:
+
+Use strong passwords.
+
+Enable multi-factor authentication.
+
+Lock systems before leaving desks.
+
+Report phishing emails immediately.
+
+Avoid sharing confidential information.
+
+Sensitive company information should never be copied to personal devices.
+
+=========================================================
+17. EMAIL USAGE POLICY
+=========================================================
+
+Company email should only be used for business purposes.
+
+Employees must not:
+
+Share passwords
+
+Send confidential information externally
+
+Forward sensitive emails
+
+Open suspicious attachments
+
+Use offensive language
+
+Email retention period is seven years.
+
+=========================================================
+18. INTERNET USAGE POLICY
+=========================================================
+
+Internet access is provided for official work.
+
+Employees should not access:
+
+Illegal websites
+
+Adult websites
+
+Pirated software
+
+Gambling websites
+
+Cryptocurrency mining websites
+
+Unauthorized streaming services
+
+Network activity may be monitored for security purposes.
+
+=========================================================
+19. CODE OF CONDUCT
+=========================================================
+
+Employees are expected to:
+
+Respect colleagues
+
+Maintain confidentiality
+
+Protect company assets
+
+Follow company policies
+
+Maintain professional communication
+
+Avoid workplace harassment
+
+Avoid discrimination
+
+Report unethical behavior
+
+=========================================================
+20. EXIT POLICY
+=========================================================
+
+Employees resigning from the company must:
+
+Submit resignation through the HR portal.
+
+Serve the required notice period.
+
+Return company assets.
+
+Complete knowledge transfer.
+
+Attend exit interview.
+
+Clear finance and administration departments.
+
+Complete Full and Final Settlement process.
+
+Company assets to return include:
+
+Laptop
+
+Identity Card
+
+Access Card
+
+Monitor
+
+Keyboard
+
+Mouse
+
+Headset
+
+Office Phone
+
+Documents
+
+Employees will receive relieving letter, experience certificate, and settlement after successful completion of the exit process.
+
+=========================================================
+21. REMOTE WORK POLICY
+=========================================================
+
+The company supports remote work arrangements for eligible employees whose job responsibilities can be effectively performed outside the office environment.
+
+Remote work eligibility depends on:
+
+• Business requirements
+• Department approval
+• Employee performance
+• Nature of the role
+• Security requirements
+
+Employees working remotely must:
+
+• Maintain a stable internet connection.
+• Use only company-approved devices.
+• Connect through the corporate VPN.
+• Keep cameras on during scheduled meetings when requested.
+• Be available during standard working hours.
+• Respond to emails and messages promptly.
+• Maintain confidentiality while working from home.
+
+The company reserves the right to revoke remote work privileges if productivity, attendance, or security requirements are not met.
+
+=========================================================
+22. HYBRID WORK POLICY
+=========================================================
+
+Hybrid work combines office attendance with remote working.
+
+Employees may follow hybrid schedules based on departmental requirements.
+
+General guidelines include:
+
+• Minimum three days in the office each week.
+• Attendance during mandatory meetings.
+• Manager approval for schedule changes.
+• Compliance with security policies.
+• Availability during core business hours.
+
+Hybrid schedules may be revised depending on business priorities.
+
+=========================================================
+23. OFFICE ACCESS POLICY
+=========================================================
+
+Employees must carry their company-issued identity card while entering company premises.
+
+Visitors must:
+
+• Register at reception.
+• Provide valid government identification.
+• Wear visitor badges.
+• Be accompanied by an employee.
+
+Lost access cards must be reported immediately to the Administration Department.
+
+Unauthorized access to restricted areas is strictly prohibited.
+
+=========================================================
+24. VISITOR MANAGEMENT POLICY
+=========================================================
+
+All visitors entering company premises shall follow security procedures.
+
+Employees hosting visitors must:
+
+• Inform reception in advance.
+• Ensure visitor registration.
+• Escort visitors throughout the visit.
+• Prevent visitors from accessing confidential work areas.
+
+Photography inside office premises requires prior approval.
+
+=========================================================
+25. DRESS CODE POLICY
+=========================================================
+
+Employees are expected to maintain a professional appearance.
+
+Acceptable attire includes:
+
+• Formal shirts
+• Business trousers
+• Business suits
+• Formal footwear
+• Company-approved uniforms where applicable
+
+Not permitted:
+
+• Torn clothing
+• Offensive printed clothing
+• Beachwear
+• Slippers
+• Excessively casual clothing
+
+Friday business casual attire may be permitted according to department guidelines.
+
+=========================================================
+26. OFFICE ETIQUETTE POLICY
+=========================================================
+
+Employees should contribute to a respectful workplace.
+
+Employees should:
+
+• Arrive on time.
+• Maintain workplace cleanliness.
+• Keep noise levels low.
+• Respect personal workspaces.
+• Use meeting rooms responsibly.
+• Switch mobile phones to silent mode during meetings.
+• Dispose of waste properly.
+• Keep shared areas clean after use.
+
+Professional behavior is expected at all times.
+
+=========================================================
+27. COMPANY PROPERTY POLICY
+=========================================================
+
+Company property includes:
+
+• Laptops
+• Desktop computers
+• Mobile phones
+• Printers
+• Office furniture
+• Security cards
+• Software licenses
+• Documents
+• Storage devices
+
+Employees are responsible for protecting company property from damage, theft, or misuse.
+
+Any damaged or lost asset must be reported immediately.
+
+Intentional damage may result in financial recovery from the employee.
+
+=========================================================
+28. LAPTOP USAGE POLICY
+=========================================================
+
+Company laptops are provided solely for official business.
+
+Employees shall:
+
+• Install only authorized software.
+• Update operating systems regularly.
+• Enable antivirus protection.
+• Lock the device when unattended.
+• Report technical issues promptly.
+
+Employees shall not:
+
+• Disable security software.
+• Share laptops with unauthorized individuals.
+• Store confidential files on personal devices.
+• Install pirated applications.
+
+Laptop inspections may be conducted by the IT department when necessary.
+
+=========================================================
+29. PASSWORD POLICY
+=========================================================
+
+Passwords are critical for protecting company information.
+
+Password requirements:
+
+• Minimum twelve characters.
+• Combination of uppercase letters.
+• Combination of lowercase letters.
+• Numbers.
+• Special characters.
+
+Employees must:
+
+• Change passwords every ninety days.
+• Never share passwords.
+• Never write passwords on paper.
+• Enable multi-factor authentication.
+• Report suspected password compromise immediately.
+
+=========================================================
+30. DATA PRIVACY POLICY
+=========================================================
+
+Employees must protect confidential company and customer information.
+
+Confidential information includes:
+
+• Employee records
+• Customer information
+• Financial records
+• Contracts
+• Business strategies
+• Product designs
+• Source code
+• Research documents
+
+Data must only be accessed by authorized employees.
+
+Sharing confidential information without authorization is strictly prohibited.
+
+=========================================================
+31. DOCUMENT RETENTION POLICY
+=========================================================
+
+Business documents shall be retained according to legal and operational requirements.
+
+Examples include:
+
+Financial records:
+Seven years
+
+Employee records:
+Duration of employment plus five years
+
+Contracts:
+Ten years after expiration
+
+Tax documents:
+Seven years
+
+Project documentation:
+Five years
+
+Documents should be securely archived and disposed of after retention periods expire.
+
+=========================================================
+32. PROCUREMENT POLICY
+=========================================================
+
+Purchasing goods and services must follow procurement procedures.
+
+Employees must:
+
+• Obtain quotations.
+• Compare vendors.
+• Receive approval before purchasing.
+• Submit purchase requests through the procurement system.
+• Maintain proper documentation.
+
+Unauthorized purchases may not be reimbursed.
+
+=========================================================
+33. VENDOR MANAGEMENT POLICY
+=========================================================
+
+The company selects vendors based on:
+
+• Quality
+• Pricing
+• Delivery capability
+• Compliance
+• Financial stability
+• Customer support
+
+Vendor performance shall be reviewed annually.
+
+Conflict of interest must be disclosed before vendor selection.
+
+=========================================================
+34. EXPENSE CLAIM POLICY
+=========================================================
+
+Employees must submit expense claims within ten business days.
+
+Claims should include:
+
+• Original receipts
+• Purpose of expense
+• Date
+• Amount
+• Project code
+• Manager approval
+
+Expenses without supporting documentation may be rejected.
+
+False expense claims are considered misconduct.
+
+=========================================================
+35. TRAINING POLICY
+=========================================================
+
+Employees are encouraged to participate in professional development programs.
+
+Training categories include:
+
+• Technical training
+• Leadership development
+• Compliance training
+• Information security
+• Communication skills
+• Customer service
+• Product knowledge
+
+Mandatory training must be completed before specified deadlines.
+
+Failure to complete mandatory training may affect performance evaluations.
+
+=========================================================
+36. CERTIFICATION REIMBURSEMENT POLICY
+=========================================================
+
+Employees may apply for reimbursement of approved professional certifications.
+
+Eligibility requirements:
+
+• Prior manager approval
+• HR approval
+• Successful certification completion
+• Submission of payment receipts
+• Submission of certification proof
+
+Maximum reimbursement limits are determined annually.
+
+Employees leaving the organization within twelve months may be required to repay reimbursement.
+
+=========================================================
+37. INTERNAL TRANSFER POLICY
+=========================================================
+
+Employees interested in changing departments may apply through the internal job portal.
+
+Eligibility:
+
+• Minimum one year in current role.
+• Good performance rating.
+• Manager recommendation.
+• HR approval.
+
+Transfer requests depend on business requirements.
+
+=========================================================
+38. PROMOTION POLICY
+=========================================================
+
+Promotions are based on:
+
+• Performance
+• Experience
+• Leadership ability
+• Technical expertise
+• Business needs
+• Skill development
+
+Promotion decisions are reviewed by department heads and HR.
+
+Promotion does not automatically guarantee salary revision.
+
+=========================================================
+39. REWARD AND RECOGNITION POLICY
+=========================================================
+
+The company recognizes exceptional employee contributions.
+
+Recognition programs include:
+
+• Employee of the Month
+• Spot Awards
+• Innovation Awards
+• Team Excellence Awards
+• Customer Appreciation Awards
+• Long Service Awards
+
+Recognition may include certificates, trophies, gift vouchers, bonuses, or public appreciation.
+
+=========================================================
+40. GRIEVANCE REDRESSAL POLICY
+=========================================================
+
+Employees experiencing workplace concerns should report them promptly.
+
+Grievances may relate to:
+
+• Workplace conflicts
+• Harassment
+• Discrimination
+• Payroll issues
+• Manager behavior
+• Working conditions
+
+Complaints should be submitted through HR or the employee grievance portal.
+
+Investigations will remain confidential wherever possible.
+
+Retaliation against employees raising genuine concerns is strictly prohibited.
+
+=========================================================
+41. EMPLOYEE BENEFITS POLICY
+=========================================================
+
+The company provides a comprehensive benefits package designed to support employees and their families.
+
+Benefits may include:
+
+• Health insurance
+• Dental insurance
+• Vision insurance
+• Life insurance
+• Accidental insurance
+• Employee wellness programs
+• Mental health counseling
+• Gym membership reimbursement
+• Annual health check-up
+• Employee assistance program
+• Flexible benefit plan
+• Meal allowance
+• Transportation allowance
+• Mobile reimbursement
+• Internet reimbursement
+• Festival bonus
+• Performance bonus
+• Referral bonus
+
+Eligibility for benefits depends on employment type and length of service.
+
+HR publishes the updated benefits handbook every financial year.
+
+=========================================================
+42. HEALTH INSURANCE POLICY
+=========================================================
+
+Eligible employees are covered under the company's group health insurance plan.
+
+Coverage includes:
+
+• Hospitalization expenses
+• Day-care procedures
+• Emergency treatment
+• Ambulance services
+• Pre-hospitalization expenses
+• Post-hospitalization expenses
+• Cashless hospitalization at network hospitals
+• Family floater option where applicable
+
+Employees must inform HR within thirty days of joining to include eligible dependents.
+
+Insurance cards should be carried during hospital visits.
+
+=========================================================
+43. MEDICAL REIMBURSEMENT POLICY
+=========================================================
+
+Employees may claim reimbursement for approved medical expenses not covered by insurance.
+
+Required documents include:
+
+• Original medical bills
+• Doctor's prescription
+• Pharmacy receipts
+• Diagnostic reports
+• Claim application form
+
+Claims should be submitted within sixty days of treatment.
+
+Incomplete claims may be returned for correction.
+
+=========================================================
+44. EMPLOYEE WELLNESS POLICY
+=========================================================
+
+The company promotes employee health and well-being through wellness initiatives.
+
+Programs include:
+
+• Annual health screenings
+• Mental health awareness sessions
+• Stress management workshops
+• Yoga sessions
+• Fitness challenges
+• Nutrition awareness seminars
+• Employee counseling
+
+Participation is voluntary unless otherwise specified.
+
+=========================================================
+45. LEARNING AND DEVELOPMENT POLICY
+=========================================================
+
+Continuous learning is encouraged for all employees.
+
+Learning opportunities include:
+
+• Classroom training
+• Online learning platforms
+• Instructor-led workshops
+• Leadership programs
+• Technical bootcamps
+• Soft skills development
+• Industry conferences
+• Knowledge-sharing sessions
+
+Managers are responsible for identifying training needs during performance reviews.
+
+=========================================================
+46. CAREER DEVELOPMENT POLICY
+=========================================================
+
+Employees are encouraged to create individual development plans.
+
+Career development activities include:
+
+• Skill gap assessments
+• Mentoring programs
+• Coaching sessions
+• Cross-functional projects
+• Internal job postings
+• Leadership development
+
+Employees should discuss career aspirations during annual review meetings.
+
+=========================================================
+47. EMPLOYEE REFERRAL POLICY
+=========================================================
+
+Employees are encouraged to refer qualified candidates for open positions.
+
+Referral process:
+
+1. Submit candidate details.
+2. HR reviews the profile.
+3. Candidate completes interviews.
+4. Hiring decision is finalized.
+5. Referral bonus is processed after eligibility requirements are met.
+
+Referral bonuses are not applicable for recruitment agencies or contractors.
+
+=========================================================
+48. DISCIPLINARY POLICY
+=========================================================
+
+Employees are expected to comply with company rules at all times.
+
+Examples of misconduct include:
+
+• Unauthorized absence
+• Insubordination
+• Theft
+• Fraud
+• Data misuse
+• Harassment
+• Violence
+• Confidentiality breaches
+• Falsification of records
+• Misuse of company assets
+
+Disciplinary actions may include:
+
+• Verbal counseling
+• Written warning
+• Final warning
+• Suspension
+• Termination of employment
+
+Serious misconduct may result in immediate termination.
+
+=========================================================
+49. ANTI-HARASSMENT POLICY
+=========================================================
+
+The company maintains a workplace free from harassment.
+
+Harassment includes:
+
+• Verbal abuse
+• Physical intimidation
+• Offensive jokes
+• Bullying
+• Threatening behavior
+• Sexual harassment
+• Discriminatory remarks
+• Unwanted physical contact
+
+Employees should immediately report incidents to HR or the designated committee.
+
+All complaints will be investigated fairly and confidentially.
+
+=========================================================
+50. SEXUAL HARASSMENT PREVENTION POLICY
+=========================================================
+
+The company follows a zero-tolerance approach toward sexual harassment.
+
+Examples include:
+
+• Unwanted advances
+• Inappropriate comments
+• Offensive messages
+• Repeated requests for personal meetings
+• Sharing explicit material
+• Physical misconduct
+
+Employees may file complaints with the Internal Complaints Committee.
+
+False complaints made intentionally may also result in disciplinary action.
+
+=========================================================
+51. EQUAL EMPLOYMENT OPPORTUNITY POLICY
+=========================================================
+
+The company provides equal opportunities in recruitment, promotion, training, compensation, and career development.
+
+Discrimination based on the following is prohibited:
+
+• Gender
+• Age
+• Religion
+• Race
+• Nationality
+• Disability
+• Marital status
+• Sexual orientation
+• Veteran status
+
+Employment decisions are based solely on merit and business requirements.
+
+=========================================================
+52. DIVERSITY AND INCLUSION POLICY
+=========================================================
+
+The organization values diversity and inclusion across all business functions.
+
+Employees are encouraged to:
+
+• Respect different cultures
+• Support inclusive teamwork
+• Avoid discriminatory language
+• Encourage equal participation
+• Celebrate diversity initiatives
+
+Inclusive behavior is considered during leadership evaluations.
+
+=========================================================
+53. CONFLICT OF INTEREST POLICY
+=========================================================
+
+Employees must avoid situations where personal interests conflict with company interests.
+
+Potential conflicts include:
+
+• Working for competitors
+• Financial interests in vendors
+• Accepting inappropriate gifts
+• Hiring close relatives without disclosure
+• Misusing confidential information
+
+Employees should disclose potential conflicts immediately to HR.
+
+=========================================================
+54. GIFT AND HOSPITALITY POLICY
+=========================================================
+
+Employees must not accept gifts that could influence business decisions.
+
+Acceptable gifts include:
+
+• Promotional merchandise
+• Low-value souvenirs
+• Company-approved appreciation items
+
+Employees must report expensive gifts to the Compliance Department.
+
+Cash gifts are strictly prohibited.
+
+=========================================================
+55. WHISTLEBLOWER POLICY
+=========================================================
+
+Employees are encouraged to report unethical or illegal activities.
+
+Examples include:
+
+• Fraud
+• Corruption
+• Financial misconduct
+• Bribery
+• Data theft
+• Policy violations
+• Abuse of authority
+
+Reports may be submitted anonymously where permitted by law.
+
+Retaliation against whistleblowers is strictly prohibited.
+
+=========================================================
+56. ETHICS POLICY
+=========================================================
+
+Employees must conduct business honestly and ethically.
+
+Employees should:
+
+• Follow applicable laws
+• Maintain accurate records
+• Protect company reputation
+• Respect customers
+• Deal fairly with suppliers
+• Avoid bribery
+• Report unethical conduct
+
+Integrity is expected in every business decision.
+
+=========================================================
+57. FRAUD PREVENTION POLICY
+=========================================================
+
+The company is committed to preventing fraud.
+
+Fraud includes:
+
+• Expense fraud
+• Payroll fraud
+• Procurement fraud
+• Identity fraud
+• Financial manipulation
+• Document forgery
+
+Employees must report suspected fraud immediately.
+
+Confirmed fraud may lead to legal action.
+
+=========================================================
+58. BUSINESS CONTINUITY POLICY
+=========================================================
+
+The company maintains business continuity plans to ensure uninterrupted operations during emergencies.
+
+Plans include:
+
+• Disaster recovery
+• Data backup
+• Emergency communication
+• Alternate work locations
+• Critical system recovery
+• Vendor continuity planning
+
+Business continuity plans are tested periodically.
+
+=========================================================
+59. EMERGENCY RESPONSE POLICY
+=========================================================
+
+Employees should follow emergency procedures during incidents.
+
+Emergency situations include:
+
+• Fire
+• Earthquake
+• Flood
+• Medical emergency
+• Bomb threat
+• Power outage
+• Cybersecurity incident
+
+Employees should follow instructions issued by emergency response teams.
+
+=========================================================
+60. FIRE SAFETY POLICY
+=========================================================
+
+Employees must familiarize themselves with fire safety procedures.
+
+Requirements include:
+
+• Know emergency exits.
+• Participate in fire drills.
+• Do not block escape routes.
+• Report fire hazards immediately.
+• Use fire extinguishers only if trained.
+• Assemble at designated meeting points after evacuation.
+
+Emergency contact numbers should be displayed throughout company premises.
+
+========================= CONTINUED =========================
