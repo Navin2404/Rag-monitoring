@@ -288,4 +288,4 @@ with col2:
         st.metric("Sentiment", metrics.get('sentiment_label', 'N/A'))
 
 st.markdown("---")
-st.markdown("📊 [View Full Dashboard](http://localhost:8502) | Run: `streamlit run dashboard.py --server.port 8502`")
+st.markdown("👈 **View Full Dashboard:** Select **dashboard** from the sidebar on the left.")
